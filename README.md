@@ -1,20 +1,20 @@
-# Sistema de Controle de Estoque - Laravel
+ Sistema de Controle de Estoque - Laravel
 
-## Objetivo
+ Objetivo
 
-Este projeto é um sistema simples de controle de estoque feito com Laravel.
+Este projeto Ã© um sistema simples de controle de estoque feito com Laravel.
 Ele permite cadastrar, listar, editar, excluir e consultar produtos.
 
 O sistema foi pensado para materiais como:
 
 - Material de limpeza
-- Material tecnológico
-- Material de escritório
+- Material tecnolÃ³gico
+- Material de escritÃ³rio
 - Outros materiais
 
----
 
-## Tecnologias utilizadas
+
+ Tecnologias utilizadas
 
 - PHP
 - Laravel
@@ -25,7 +25,7 @@ O sistema foi pensado para materiais como:
 
 ---
 
-## Banco de dados
+ Banco de dados
 
 No arquivo .env configure:
 
@@ -33,9 +33,9 @@ DB_DATABASE=estoque_laravel
 DB_USERNAME=root
 DB_PASSWORD=
 
----
 
-## Comandos principais
+
+ Comandos principais
 
 Criar tabelas e categorias:
 
@@ -49,9 +49,9 @@ Abrir no navegador:
 
 http://127.0.0.1:8000
 
----
 
-## Resumo
+
+ Resumo
 
 Sistema de controle de estoque desenvolvido em Laravel utilizando:
 
@@ -62,4 +62,6 @@ Sistema de controle de estoque desenvolvido em Laravel utilizando:
 - Blade
 - Bootstrap
 
-Possui cadastro de categorias e produtos, controle de estoque mínimo e indicação visual de estoque baixo.
+Possui cadastro de categorias e produtos, controle de estoque mÃ­nimo e indicaÃ§Ã£o visual de estoque baixo.
+
+![Dashboard do Sistema](https://raw.githubusercontent.com/Pablo-seixas/crud_php-8.2-/main/ima-crud-php/1-dashboard.png)
